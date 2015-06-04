@@ -1,0 +1,23 @@
+---
+layout: post
+title: "开个张"
+modified:
+categories: abc
+description:
+tags: []
+image:
+  feature:
+  credit:
+  creditlink:
+comments:
+share:
+date: 2015-06-02T11:36:39+08:00
+---
+
+down了个theme，blog算是搭起来了。
+
+打算把这里做成一个成果收集站。
+
+一部分是对人生采个样，
+
+一部分也算是前行的动力。

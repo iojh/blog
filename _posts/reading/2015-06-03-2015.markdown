@@ -1,0 +1,60 @@
+---
+layout: book
+title: 2015年阅读书单
+category: reading
+keywords: 阅读,书单,2010
+date: 2015-06-02T11:36:39+08:00
+image:
+  feature: book-bk.jpg
+  credit:
+  creditlink:
+books: 
+    - title: 这书能让你戒烟
+      status: 未读
+      author: 亚伦•卡尔 
+      publisher: 吉林文史出版社
+      language: 中文
+      link: http://book.douban.com/subject/3318174/
+      cover: http://img4.douban.com/lpic/s3472307.jpg
+      description: 
+    - title: 当我谈跑步时我谈些什么
+      status: 已读
+      author: 村上春树
+      publisher: 南海出版公司
+      language: 中文
+      link: http://book.douban.com/subject/3369600/
+      cover: http://img3.douban.com/lpic/s3507580.jpg
+      description: 长跑这项非常自虐的运动，只有玩过的人才知道其中的乐趣，孤独而无所束缚
+    - title: Effective Objective C 2.0
+      status: 在读
+      author: 加洛韦 (Matt Galloway) 
+      publisher: 机械工业出版社
+      language: 中文
+      link: http://book.douban.com/subject/25829244/
+      cover: http://img3.douban.com/lpic/s27220555.jpg
+      description: Effective、Objective、C
+    - title: 三体:地球往事
+      status: 已读
+      author: 刘慈欣
+      publisher: 重庆出版社
+      language: 中文
+      link: http://book.douban.com/subject/2567698/
+      cover: http://img4.douban.com/lpic/s2865028.jpg
+      description: 
+    - title: 三体Ⅱ:黑暗森林
+      status: 在读
+      author: 刘慈欣
+      publisher: 重庆出版社
+      language: 中文
+      link: http://book.douban.com/subject/3066477/
+      cover: http://img4.douban.com/lpic/s3078482.jpg
+      description: 
+    - title: 三体Ⅱ:死神永生
+      status: 未读
+      author: 刘慈欣
+      publisher: 重庆出版社
+      language: 中文
+      link: http://book.douban.com/subject/5363767/
+      cover: http://img4.douban.com/lpic/s26012674.jpg
+      description: 
+---
