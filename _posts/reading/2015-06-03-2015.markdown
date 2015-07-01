@@ -10,7 +10,7 @@ image:
   creditlink:
 books: 
     - title: 这书能让你戒烟
-      status: 未读
+      status: 已读
       author: 亚伦•卡尔 
       publisher: 吉林文史出版社
       language: 中文
